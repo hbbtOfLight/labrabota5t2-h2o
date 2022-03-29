@@ -1,4 +1,4 @@
-##Repositories
+## Repositories
 
 1. [Darya Shauchonak](https://github.com/dxarch/github-pages-with-jekyll)
 2. [Veronika Bystrova](https://github.com/BystrovaV/github-pages-with-jekyll)
