@@ -1,6 +1,6 @@
 ## Welcome to Lab 5 Project by H20
 
-[Link to repositories list](docs/repositories.md)
+[Link to repositories list](repositories.md)
 
 ### Description
 
